@@ -1,4 +1,4 @@
-<img src="https://github.com/CllaudiaB/holbertonschool-web-development/blob/main/html_advanced/images/image-readme.md.png">
+<img src="https://github.com/CllaudiaB/holbertonschool-web-development/blob/main/html_advanced/images/websitefinal.jpg">
 
 ### HTML, advanced
 
