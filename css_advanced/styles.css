@@ -135,3 +135,92 @@ span {
   font-style: italic;
   margin-top: 5px;
 }
+
+.tutorials-section {
+  color: black;
+  margin-top: 80px;
+  display: block;
+}
+
+.tutorials-section h1 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: lighter;
+}
+
+.tutorials {
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+  margin-bottom: 70px;
+}
+
+.tutorial1, .tutorial2, .tutorial3, .tutorial4 {
+  width: 255px;
+  position: relative;
+
+}
+
+.tutorial1, .tutorial2, .tutorial3 {
+  margin-right: 40px;
+}
+
+.image-smile {
+  position: relative;
+}
+
+.play {
+  position: absolute;
+  top: 40px;
+  left: 100px;
+}
+
+.tutorials h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.tutorials p {
+  color: #071629;
+  opacity: 50.16%;
+  font-size: 14px;
+  margin-top: 8px;
+  margin-left: 10px;
+}
+
+.tutorial-avatar {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+.tutorial-avatar img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.tutorial-avatar h3 {
+  color: #C271FF;
+  font-size: 14px;
+  font-weight: 550;
+}
+
+.tutorial-star {
+  display: flex;
+  text-align: end;
+}
+
+.tutorial-star img {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.tutorial-star p {
+  color: #C271FF;
+  font-size: 14px;
+  font-weight: 550;
+  margin-left: 80px;
+}
