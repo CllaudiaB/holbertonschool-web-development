@@ -105,3 +105,33 @@ span {
   margin-top: 5px;
   line-height: 30px;
 }
+
+.testimonials-section {
+  background-color: #c271ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 392px;
+  margin-top: -6px;
+}
+
+.testimonials {
+  display: flex;
+  width: 943px;
+  height: 160px;
+  font-size: 22px;
+}
+
+.testimonials img {
+  margin-right: 53px;
+}
+
+.person-name {
+  font-weight: bold;
+  margin-top: 45px;
+}
+
+.weather-presenter {
+  font-style: italic;
+  margin-top: 5px;
+}
